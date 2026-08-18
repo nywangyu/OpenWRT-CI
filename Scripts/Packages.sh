@@ -74,7 +74,7 @@ UPDATE_PACKAGE "partexp" "sirpdboy/luci-app-partexp" "main"
 UPDATE_PACKAGE "quickstart" "kenzok8/small-package" "main" "pkg" "quickstart luci-app-quickstart"
 UPDATE_PACKAGE "istore" "kenzok8/small-package" "main" "pkg" "luci-app-store luci-lib-taskd luci-lib-xterm taskd"
 UPDATE_PACKAGE "quickfile" "sbwml/luci-app-quickfile" "main"
-UPDATE_PACKAGE "viking" "VIKINGYFY/packages" "main" "" "luci-app-timewol luci-app-wolplus"
+UPDATE_PACKAGE "viking" "VIKINGYFY/packages" "main" "" "axonhub gecoosac sing-box luci-app-homeproxy luci-app-timewol luci-app-wolplus luci-app-wolultra"
 UPDATE_PACKAGE "vnt" "lmq8267/luci-app-vnt" "main"
 
 #更新软件包版本
